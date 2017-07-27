@@ -13,3 +13,6 @@ This is a simple web project, development can be on any web server or even local
 
 ## How To Contribute
 Just do it!
+
+### Copyright
+2017 Git Training
